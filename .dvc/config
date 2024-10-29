@@ -1,0 +1,6 @@
+[core]
+    remote = minio
+['remote "minio"']
+    url = s3://test
+    access_key_id = QGMSwTKjEwbxHIpJfi8W
+    secret_access_key = 2FwMkLYYnblOfQVHuu8SG0MMczSkTTNANdyd3NwP
